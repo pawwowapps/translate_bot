@@ -1,0 +1,188 @@
+<resources>
+    <string name="sdk_key">qEkfEptNt844hbEC7XR76bIacTy6HyTeTD5URgz0uIUslCy85oRo7C68d4sFyGNrNXEUF8lPWIGcNmztaI8cap</string>
+    <string name="app_name">AlertMe: To-Do List &amp; Alarm</string>
+    <string name="admob_app_id">ca-app-pub-9673576102695393~9702294920</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="planner_alarm">Planner + Alarm</string>
+    <string name="chooser">Choose a way to share</string>
+    <string name="edit_tag">Edit tag</string>
+    <string name="favorite">Favorite</string>
+    <string name="create_new_task">Create new task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="free_3_days_trial">FREE 3 DAYS TRIAL</string>
+    <string name="free_3_days"><font size="20"><b>FREE</b></font>  \n3 days </string>
+    <string name="month_sub"><font size="20"><b>%s</b></font>  \n1 month </string>
+    <string name="_3_days_free_trial_then_99_99_month">3 DAYS FREE TRIAL \nthen %s / month</string>
+    <string name="_3_days_free_trial_then_99_99_month_bold"><b>3 DAYS FREE TRIAL</b> \nthen %s / month</string>
+    <string name="monthly_99_00_month">Monthly \n%s / month</string>
+    <string name="get_for_price">Get Premium for %s/month</string>
+
+    <string name="monthly_month_bold"><b>Monthly</b> \n%s / month</string>
+
+    <string name="_3_days_free_trial_then_99_99_month_9_99_week"><font size="16">3 days free trial</font><b>\nthen %s/month (%s/week)</b> </string>
+    <string name="enjoy_full_access_month"><font size="16">Enjoy full access for %s/month</font><b>\nJust %s/week</b> </string>
+    <string name="purchase_inside_bottom_text_year">The first 3 days of trial usage are FREE, then %s per year automatically. By using the app you agree to our %s and to our %s. %s any time in Subscriptions on Google Play.</string>
+    <string name="than_s_per_year_auto">then %s per year automatically</string>
+    <string name="error_connection">Sorry, connection problems, please try again or contact support</string>
+    <string name="vibration">Vibration</string>
+    <string name="create">Create</string>
+    <string name="am">AM</string>
+    <string name="save">Save</string>
+    <string name="set_repeat_frequency">Set repeat frequency</string>
+    <string name="every_day">Every day</string>
+    <string name="every_month">Every month</string>
+    <string name="every_year">Every year</string>
+    <string name="mo">Mo</string>
+    <string name="tu">Tu</string>
+    <string name="we">We</string>
+    <string name="th">Th</string>
+    <string name="fr">Fr</string>
+    <string name="sa">Sa</string>
+    <string name="su">Su</string>
+    <string name="set_sound">Set sound</string>
+    <string name="add_sound">Add sound</string>
+    <string name="name">Name</string>
+    <string name="reminders">Reminders</string>
+    <string name="_3_days">3 days</string>
+    <string name="then_s_automatically">then %s per month automatically</string>
+    <string name="_1_month">1 month</string>
+    <string name="s_per_week">%s per week</string>
+    <string name="do_math_homework_watch_page_12">Do math homework (watch page 12)</string>
+    <string name="_10_30_am">10:30 AM</string>
+    <string name="your_tags">Your tags</string>
+    <string name="add_new">Add new</string>
+    <string name="delete">Delete</string>
+    <string name="pm">PM</string>
+    <string name="alertme">AlertMe</string>
+    <string name="mark_as_checked">Mark as checked</string>
+    <string name="ok">OK</string>
+    <string name="alarm_clocks">Alarm clocks</string>
+    <string name="create_new_alarm">Create new alarm</string>
+    <string name="task_to_turn_off">Task to turn off</string>
+    <string name="quick_alarm">Quick alarm</string>
+    <string name="_60_min">+60 min</string>
+    <string name="purchase_before_tutorial_without_trial_bottom_text">Payment will be charged to your Google Play Account at confirmation of purchase. By using the app you agree to our %s &amp; to our %s. %s any time in Subscriptions on Google Play.</string>
+    <string name="_30_min">+30 min</string>
+    <string name="_15_min">+15 min</string>
+    <string name="purchase_before_tutorial_trial_bottom_text">The first 3 days of trial usage are FREE, then %s per month automatically. By using the app you agree to our %s and to our %s. %s any time in Subscriptions on Google Play.</string>
+    <string name="_10_min">+10 min</string>
+    <string name="_5_min">+5 min</string>
+    <string name="_1_min">+1 min</string>
+    <string name="start">Start</string>
+    <string name="set_time">Set time</string>
+    <string name="free">Free</string>
+    <string name="get_premium">GET PREMIUM</string>
+    <string name="monthly">monthly</string>
+    <string name="yearly">yearly</string>
+    <string name="or_get_3_days_trial">OR GET 3 DAYS TRIAL</string>
+    <string name="weekly">%s weekly</string>
+    <string name="unlock_these_pro_features">Unlock these <font color="#669FF4">PRO</font> features</string>
+    <string name="unlock_these_pro_features_green">Unlock these <font color="#58D189">PRO</font> features</string>
+    <string name="try_3_days_for_free">Try 3 days for <font color="#669FF4">FREE</font></string>
+    <string name="purchase_after_per_month_after_trial_ends"><![CDATA[<font color="#669FF4"><b>%s</b></font> per month after trial ends<br /><i>(Cancel anytime)</i>]]></string>
+    <string name="no_ads">No ads</string>
+    <string name="purchase_after_bottom_text">The first 3 days of trial usage are FREE, then %s per month automatically. By using the app you agree to our %s and to our %s. %s any time in Subscriptions on Google Play.</string>
+    <string name="unlimited_tasks_and_tags">Unlimited tasks and tags</string>
+    <string name="all_icons_and_colors">All icons and colors</string>
+    <string name="save_25">Save 25%</string>
+    <string name="get_your_life_in_order">Get your life in order</string>
+    <string name="create_tasks_set_tags"><![CDATA[Create tasks & set tags]]></string>
+    <string name="make_repeated_reminders">Make repeated reminders</string>
+    <string name="set_quick_and_regular_alarms">Set quick and regular alarms</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="set_your_wake_up_time">Set your wake up time</string>
+    <string name="to_create_first_alarm">to create first alarm</string>
+    <string name="create_your_first_remind">Create your first remind</string>
+    <string name="don_t_forget_anything_important">don\'t forget anything important</string>
+    <string name="set_date_and_time">Set date and time</string>
+    <string name="puzzle">Puzzle</string>
+    <string name="typing">Typing</string>
+    <string name="to_turn_off_the_clock_you_need_to_type_the_given_text">To turn off the clock you need to type the given text</string>
+    <string name="memory_puzzle">Memory puzzle</string>
+    <string name="phone_shake">Phone shake</string>
+    <string name="shake_your_phone_several_times_to_turn_off_alarm_clock">Shake your phone several times to turn off alarm clock</string>
+    <string name="type_here">Type here</string>
+    <string name="retype_the_phrase">Retype the phrase</string>
+    <string name="you_made_a_mistake">You made a mistake!</string>
+    <string name="good_job">Good job!</string>
+    <string name="snooze">Snooze</string>
+    <string name="check">Check</string>
+    <string name="shake_your_phone">Shake your phone!</string>
+    <string name="turn_off">Turn off</string>
+    <string name="stop">Stop</string>
+    <string name="calendar">Calendar</string>
+    <string name="stay_productive_with_pro">Stay productive with <b>PRO</b></string>
+    <string name="try_now">Try now</string>
+    <string name="snoozt_time">Snoozt time</string>
+    <string name="rate_us">Rate us</string>
+    <string name="write_to_support">Write to support</string>
+    <string name="notification">Notification</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="our_site">Our site</string>
+    <string name="cancel_subscription">Cancel subscription</string>
+    <string name="snooze_time">Snooze time</string>
+    <string name="settings">Settings</string>
+    <string name="edit_alarm">Edit alarm</string>
+    <string name="min">min.</string>
+    <string name="sec">sec.</string>
+    <string name="get_pro_with_sale">Get <b>PRO</b> with <b>SALE</b></string>
+    <string name="please_grant_access_to_your_files_so_that_we_can_provide_you_with_the_best_experience_using_our_application">Please grant access to your files so that we can provide you with the best experience using our application.</string>
+    <string name="please_grant_access_to_your_notification_so_that_we_can_provide_you_with_the_best_experience_using_our_application">Please let us send you notifications so that we can provide you with the best experience using our application.</string>
+    <string name="allow">Allow</string>
+    <string name="unlock_all_functionality_cancel_anytime"><font size="28"><b>Unlock all</b></font> \n<font size="36"><b>FUNCTIONALITY</b></font> </string>
+    <string name="_3_days_free_trial_then_">3 days free trial then %s/month</string>
+    <string name="money_back_guarantee">Money back guarantee</string>
+    <string name="how_your_free_trial_works">HOW YOUR FREE TRIAL WORKS:</string>
+    <string name="today">Today</string>
+    <string name="start_enjoying_full_access_to_advanced_features">Start enjoying full access to advanced features</string>
+    <string name="get_full_access">GET FULL ACCESS</string>
+    <string name="unlock_all_colors_tags_icons_and_colors_enjoy_app_without_ads">Unlock all colors, tags, icons and colors. Enjoy app without ads</string>
+    <string name="in_3_days">IN 3 DAYS</string>
+    <string name="your_pro_subscription_will_begin_and_you_will_be_charged_cancel_anytime_before">Your PRO subscription will begin and you will be charged. Cancel anytime before.</string>
+    <string name="show_all_plans">SHOW ALL PLANS</string>
+    <string name="start_free_3_days_trial">START FREE 3 DAYS TRIAL</string>
+    <string name="ready_to_pro">READY TO PRO?</string>
+    <string name="cancel_anytime">Cancel anytime</string>
+    <string name="continue_">CONTINUE</string>
+    <string name="get_pro">GET PRO</string>
+    <string name="snooze_min">Snooze | %1$s min</string>
+    <string name="enter_a_name_for_your_tag">Enter a name for your tag</string>
+    <string name="free_3_days__">"Free 3 days "</string>
+    <string name="terms_and_conditions__">Terms and Conditions</string>
+    <string name="privacy_policy__">Privacy Policy</string>
+    <string name="cancel__">Cancel</string>
+    <string name="please_choose_time">Please, choose time</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="download_failed_please_try_again">Download failed. Please, try again</string>
+    <string name="choose_some_ringtone">Choose some ringtone</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="wake_up">Wake up</string>
+    <string name="choose_date_and_time">Choose date and time</string>
+    <string name="fill_the_field">Fill the field</string>
+    <string name="please_choose_a_date">Please, choose a date</string>
+    <string name="don_t_live_in_the_past_choose_date_bigger_then_current">Don\'t live in the past, choose date bigger then current</string>
+    <string name="all">All</string>
+    <string name="this_week">This week</string>
+    <string name="future">Future</string>
+    <string name="none">None</string>
+    <string name="task_to_turn_of">Task to turn of | %1$s</string>
+    <string name="choose_puzzle">Choose puzzle</string>
+    <string name="alarm_is_ringing">Alarm is ringing</string>
+    <string-array name="puzzle">
+        <item>Only those who dare to fail greatly can ever achieve greatly.</item>
+        <item>It all begins and ends in your mind. What you give power to has power over you.</item>
+        <item>Believe in yourself, and the rest will fall into place.</item>
+        <item>We generate fears while we sit. We overcome them by action.</item>
+        <item>We develop courage by surviving difficult times and challenging adversity.</item>
+        <item>Everything is hard before it is easy.</item>
+        <item>Depend on no one. Get it done yourself.</item>
+        <item>Forget the mistake. Remember the lesson.</item>
+        <item>The best way to predict the future is to create it.</item>
+        <item>Don\'t think you can. Know you can.</item>
+        <item>Make it happen. Shock everyone.</item>
+        <item>The best way to predict the future is to create it.</item>
+    </string-array>
+</resources>

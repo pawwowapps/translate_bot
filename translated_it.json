@@ -1,0 +1,114 @@
+[
+	{
+		"name": "CAMERA",
+		"description": "Necessario Per Poter Accedere Al Dispositivo Fotocamera."
+	},
+	{
+		"name": "RECORD_AUDIO",
+		"description": "Consente A Un'Applicazione Di Registrare L'Audio."
+	},
+	{
+		"name": "ACCESS_FINE_LOCATION",
+		"description": "Consente A Un'App Di Accedere Alla Posizione Precisa."
+	},
+	{
+		"name": "ACCESS_COARSE_LOCATION",
+		"description": "Consente A Un'App Di Accedere Alla Posizione Approssimativa."
+	},
+	{
+		"name": "READ_EXTERNAL_STORAGE",
+		"description": "Consente A Un'Applicazione Di Leggere Da Una Memoria Esterna."
+	},
+	{
+		"name": "WRITE_EXTERNAL_STORAGE",
+		"description": "Consente A Un'Applicazione Di Scrivere Su Un Dispositivo Di Archiviazione Esterno."
+	},
+	{
+		"name": "READ_CONTACTS",
+		"description": "Consente A Un'Applicazione Di Leggere I Dati Dei Contatti Dell'Utente."
+	},
+	{
+		"name": "CALL_PHONE",
+		"description": "Consente A Un'Applicazione Di Avviare Una Chiamata Telefonica Senza Passare Attraverso L'Interfaccia Utente Di Dialer Per Consentire All'Utente Di Confermare La Chiamata."
+	},
+	{
+		"name": "READ_CALL_LOG",
+		"description": "Consente A Un'Applicazione Di Leggere Il Registro Delle Chiamate Dell'Utente."
+	},
+	{
+		"name": "WRITE_CALL_LOG",
+		"description": "Consente A Un'Applicazione Di Scrivere E Leggere I Dati Del Registro Chiamate Dell'Utente."
+	},
+	{
+		"name": "SEND_SMS",
+		"description": "Consente A Un'Applicazione Di Inviare Messaggi Sms."
+	},
+	{
+		"name": "RECEIVE_SMS",
+		"description": "Consente A Un'Applicazione Di Ricevere Messaggi Sms."
+	},
+	{
+		"name": "READ_SMS",
+		"description": "Consente A Un'Applicazione Di Leggere I Messaggi Sms."
+	},
+	{
+		"name": "READ_CALENDAR",
+		"description": "Consente A Un'Applicazione Di Leggere I Dati Del Calendario Dell'Utente."
+	},
+	{
+		"name": "WRITE_CALENDAR",
+		"description": "Consente A Un'Applicazione Di Scrivere I Dati Del Calendario Dell'Utente."
+	},
+	{
+		"name": "BODY_SENSORS",
+		"description": "Consente A Un'Applicazione Di Accedere Ai Dati Provenienti Dai Sensori Che L'Utente Utilizza Per Misurare Ciò Che Sta Accadendo All'Interno Del Proprio Corpo, Come La Frequenza Cardiaca."
+	},
+	{
+		"name": "READ_PHONE_STATE",
+		"description": "Consente L'Accesso In Sola Lettura Allo Stato Del Telefono, Comprese Le Informazioni Attuali Sulla Rete Cellulare, Lo Stato Di Eventuali Chiamate In Corso E Un Elenco Di Eventuali Phoneaccount Registrati Sul Dispositivo."
+	},
+	{
+		"name": "BLUETOOTH",
+		"description": "Consente Alle Applicazioni Di Connettersi A Dispositivi Bluetooth Accoppiati."
+	},
+	{
+		"name": "BLUETOOTH_ADMIN",
+		"description": "Consente Alle Applicazioni Di Rilevare E Associare Dispositivi Bluetooth."
+	},
+	{
+		"name": "INTERNET",
+		"description": "Consente Alle Applicazioni Di Aprire Socket Di Rete."
+	},
+	{
+		"name": "ACCESS_NETWORK_STATE",
+		"description": "Consente Alle Applicazioni Di Accedere Alle Informazioni Sulle Reti."
+	},
+	{
+		"name": "NFC",
+		"description": "Consente Alle Applicazioni Di Eseguire Operazioni I/O Tramite Nfc."
+	},
+	{
+		"name": "WRITE_SETTINGS",
+		"description": "Consente A Un'Applicazione Di Leggere O Scrivere Le Impostazioni Di Sistema."
+	},
+	{
+		"name": "PACKAGE_USAGE_STATS",
+		"description": "Consente A Un'Applicazione Di Raccogliere Statistiche Sull'Utilizzo Dei Componenti. Dichiarare L'Autorizzazione Implica L'Intenzione Di Utilizzare L'Api E L'Utente Del Dispositivo Può Concedere L'Autorizzazione Tramite L'Applicazione Impostazioni."
+	},
+	{
+		"name": "NEARBY_WIFI_DEVICES",
+		"description": "Necessario Per Poter Fare Pubblicità E Connettersi Ai Dispositivi Vicini Tramite Wi-Fi."
+	},
+	{
+		"name": "READ_MEDIA_IMAGES",
+		"description": "Consente A Un'Applicazione Di Leggere File Di Immagine Da Una Memoria Esterna."
+	},
+	{
+		"name": "READ_MEDIA_VIDEO",
+		"description": "Consente A Un'Applicazione Di Leggere File Video Da Una Memoria Esterna."
+	},
+	{
+		"name": "READ_MEDIA_AUDIO",
+		"description": "Consente A Un'Applicazione Di Leggere File Audio Da Una Memoria Esterna."
+	}
+]

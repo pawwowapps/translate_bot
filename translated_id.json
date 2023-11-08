@@ -1,0 +1,114 @@
+[
+	{
+		"name": "CAMERA",
+		"description": "Diperlukan Untuk Dapat Mengakses Perangkat Kamera."
+	},
+	{
+		"name": "RECORD_AUDIO",
+		"description": "Mengizinkan Aplikasi Merekam Audio."
+	},
+	{
+		"name": "ACCESS_FINE_LOCATION",
+		"description": "Mengizinkan Aplikasi Mengakses Lokasi Akurat."
+	},
+	{
+		"name": "ACCESS_COARSE_LOCATION",
+		"description": "Mengizinkan Aplikasi Mengakses Perkiraan Lokasi."
+	},
+	{
+		"name": "READ_EXTERNAL_STORAGE",
+		"description": "Mengizinkan Aplikasi Membaca Dari Penyimpanan Eksternal."
+	},
+	{
+		"name": "WRITE_EXTERNAL_STORAGE",
+		"description": "Mengizinkan Aplikasi Menulis Ke Penyimpanan Eksternal."
+	},
+	{
+		"name": "READ_CONTACTS",
+		"description": "Mengizinkan Aplikasi Membaca Data Kontak Pengguna."
+	},
+	{
+		"name": "CALL_PHONE",
+		"description": "Mengizinkan Aplikasi Memulai Panggilan Telepon Tanpa Melalui Antarmuka Pengguna Dialer Agar Pengguna Dapat Mengonfirmasi Panggilan Tersebut."
+	},
+	{
+		"name": "READ_CALL_LOG",
+		"description": "Mengizinkan Aplikasi Membaca Log Panggilan Pengguna."
+	},
+	{
+		"name": "WRITE_CALL_LOG",
+		"description": "Mengizinkan Aplikasi Menulis Dan Membaca Data Log Panggilan Pengguna."
+	},
+	{
+		"name": "SEND_SMS",
+		"description": "Mengizinkan Aplikasi Mengirim Pesan Sms."
+	},
+	{
+		"name": "RECEIVE_SMS",
+		"description": "Mengizinkan Aplikasi Menerima Pesan Sms."
+	},
+	{
+		"name": "READ_SMS",
+		"description": "Mengizinkan Aplikasi Membaca Pesan Sms."
+	},
+	{
+		"name": "READ_CALENDAR",
+		"description": "Mengizinkan Aplikasi Membaca Data Kalender Pengguna."
+	},
+	{
+		"name": "WRITE_CALENDAR",
+		"description": "Mengizinkan Aplikasi Menulis Data Kalender Pengguna."
+	},
+	{
+		"name": "BODY_SENSORS",
+		"description": "Mengizinkan Aplikasi Mengakses Data Dari Sensor Yang Digunakan Pengguna Untuk Mengukur Apa Yang Terjadi Di Dalam Tubuhnya, Seperti Detak Jantung."
+	},
+	{
+		"name": "READ_PHONE_STATE",
+		"description": "Mengizinkan Akses Baca-Saja Ke Status Telepon, Termasuk Informasi Jaringan Seluler Saat Ini, Status Panggilan Yang Sedang Berlangsung, Dan Daftar Akun Telepon Apa Pun Yang Terdaftar Di Perangkat."
+	},
+	{
+		"name": "BLUETOOTH",
+		"description": "Mengizinkan Aplikasi Terhubung Ke Perangkat Bluetooth Yang Dipasangkan."
+	},
+	{
+		"name": "BLUETOOTH_ADMIN",
+		"description": "Mengizinkan Aplikasi Menemukan Dan Memasangkan Perangkat Bluetooth."
+	},
+	{
+		"name": "INTERNET",
+		"description": "Mengizinkan Aplikasi Membuka Soket Jaringan."
+	},
+	{
+		"name": "ACCESS_NETWORK_STATE",
+		"description": "Mengizinkan Aplikasi Mengakses Informasi Tentang Jaringan."
+	},
+	{
+		"name": "NFC",
+		"description": "Mengizinkan Aplikasi Melakukan Operasi I/O Melalui Nfc."
+	},
+	{
+		"name": "WRITE_SETTINGS",
+		"description": "Mengizinkan Aplikasi Membaca Atau Menulis Pengaturan Sistem."
+	},
+	{
+		"name": "PACKAGE_USAGE_STATS",
+		"description": "Mengizinkan Aplikasi Mengumpulkan Statistik Penggunaan Komponen. Mendeklarasikan Izin Menyiratkan Niat Untuk Menggunakan Api Dan Pengguna Perangkat Dapat Memberikan Izin Melalui Aplikasi Pengaturan."
+	},
+	{
+		"name": "NEARBY_WIFI_DEVICES",
+		"description": "Diperlukan Untuk Dapat Beriklan Dan Terhubung Ke Perangkat Terdekat Melalui Wi-Fi."
+	},
+	{
+		"name": "READ_MEDIA_IMAGES",
+		"description": "Mengizinkan Aplikasi Membaca File Gambar Dari Penyimpanan Eksternal."
+	},
+	{
+		"name": "READ_MEDIA_VIDEO",
+		"description": "Mengizinkan Aplikasi Membaca File Video Dari Penyimpanan Eksternal."
+	},
+	{
+		"name": "READ_MEDIA_AUDIO",
+		"description": "Mengizinkan Aplikasi Membaca File Audio Dari Penyimpanan Eksternal."
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"name": "CAMERA",
+		"description": "Nécessaire Pour Pouvoir Accéder À L’Appareil Photo."
+	},
+	{
+		"name": "RECORD_AUDIO",
+		"description": "Permet À Une Application D'Enregistrer De L'Audio."
+	},
+	{
+		"name": "ACCESS_FINE_LOCATION",
+		"description": "Permet À Une Application D'Accéder À Un Emplacement Précis."
+	},
+	{
+		"name": "ACCESS_COARSE_LOCATION",
+		"description": "Permet À Une Application D'Accéder À La Localisation Approximative."
+	},
+	{
+		"name": "READ_EXTERNAL_STORAGE",
+		"description": "Permet À Une Application De Lire À Partir D'Un Stockage Externe."
+	},
+	{
+		"name": "WRITE_EXTERNAL_STORAGE",
+		"description": "Permet À Une Application D'Écrire Sur Un Stockage Externe."
+	},
+	{
+		"name": "READ_CONTACTS",
+		"description": "Permet À Une Application De Lire Les Données Des Contacts De L'Utilisateur."
+	},
+	{
+		"name": "CALL_PHONE",
+		"description": "Permet À Une Application De Lancer Un Appel Téléphonique Sans Passer Par L'Interface Utilisateur Du Numéroteur Pour Que L'Utilisateur Confirme L'Appel."
+	},
+	{
+		"name": "READ_CALL_LOG",
+		"description": "Permet À Une Application De Lire Le Journal Des Appels De L'Utilisateur."
+	},
+	{
+		"name": "WRITE_CALL_LOG",
+		"description": "Permet À Une Application D'Écrire Et De Lire Les Données Du Journal Des Appels De L'Utilisateur."
+	},
+	{
+		"name": "SEND_SMS",
+		"description": "Permet À Une Application D'Envoyer Des Messages Sms."
+	},
+	{
+		"name": "RECEIVE_SMS",
+		"description": "Permet À Une Application De Recevoir Des Messages Sms."
+	},
+	{
+		"name": "READ_SMS",
+		"description": "Permet À Une Application De Lire Les Messages Sms."
+	},
+	{
+		"name": "READ_CALENDAR",
+		"description": "Permet À Une Application De Lire Les Données Du Calendrier De L'Utilisateur."
+	},
+	{
+		"name": "WRITE_CALENDAR",
+		"description": "Permet À Une Application D'Écrire Les Données Du Calendrier De L'Utilisateur."
+	},
+	{
+		"name": "BODY_SENSORS",
+		"description": "Permet À Une Application D'Accéder Aux Données Des Capteurs Que L'Utilisateur Utilise Pour Mesurer Ce Qui Se Passe À L'Intérieur De Son Corps, Comme La Fréquence Cardiaque."
+	},
+	{
+		"name": "READ_PHONE_STATE",
+		"description": "Permet Un Accès En Lecture Seule À L'État Du Téléphone, Y Compris Les Informations Actuelles Du Réseau Cellulaire, L'État De Tous Les Appels En Cours Et Une Liste De Tous Les Comptes Téléphoniques Enregistrés Sur L'Appareil."
+	},
+	{
+		"name": "BLUETOOTH",
+		"description": "Permet Aux Applications De Se Connecter Aux Appareils Bluetooth Couplés."
+	},
+	{
+		"name": "BLUETOOTH_ADMIN",
+		"description": "Permet Aux Applications De Découvrir Et De Coupler Des Appareils Bluetooth."
+	},
+	{
+		"name": "INTERNET",
+		"description": "Permet Aux Applications D'Ouvrir Des Sockets Réseau."
+	},
+	{
+		"name": "ACCESS_NETWORK_STATE",
+		"description": "Permet Aux Applications D'Accéder Aux Informations Sur Les Réseaux."
+	},
+	{
+		"name": "NFC",
+		"description": "Permet Aux Applications D'Effectuer Des Opérations D'E/S Via Nfc."
+	},
+	{
+		"name": "WRITE_SETTINGS",
+		"description": "Permet À Une Application De Lire Ou D'Écrire Les Paramètres Du Système."
+	},
+	{
+		"name": "PACKAGE_USAGE_STATS",
+		"description": "Permet À Une Application De Collecter Des Statistiques D'Utilisation Des Composants. La Déclaration De L'Autorisation Implique L'Intention D'Utiliser L'Api Et L'Utilisateur De L'Appareil Peut Accorder L'Autorisation Via L'Application Paramètres."
+	},
+	{
+		"name": "NEARBY_WIFI_DEVICES",
+		"description": "Nécessaire Pour Pouvoir Faire De La Publicité Et Se Connecter Aux Appareils À Proximité Via Wi-Fi."
+	},
+	{
+		"name": "READ_MEDIA_IMAGES",
+		"description": "Permet À Une Application De Lire Des Fichiers Image À Partir D'Un Stockage Externe."
+	},
+	{
+		"name": "READ_MEDIA_VIDEO",
+		"description": "Permet À Une Application De Lire Des Fichiers Vidéo À Partir D'Un Stockage Externe."
+	},
+	{
+		"name": "READ_MEDIA_AUDIO",
+		"description": "Permet À Une Application De Lire Des Fichiers Audio À Partir D'Un Stockage Externe."
+	}
+]
