@@ -115,5 +115,6 @@ def handle_translation(message, selected_language):
 
 if __name__ == '__main__':
     bot.polling()
+    bot.delete_webhook()
     bot.set_webhook(url="https://translate-bot-7jy3.onrender.com")
 
