@@ -6,9 +6,9 @@ from json_translator import translate
 import sys
 load_dotenv()
 
-telegram_token = os.getenv("TELEGRAM_TOKEN")
-user_token = os.getenv("USER_TOKEN")
 debug = os.getenv("DEBUG")
+telegram_token = os.getenv("TELEGRAM_TOKEN_DEBUG") if debug else os.getenv("TELEGRAM_TOKEN")
+user_token = os.getenv("USER_TOKEN")
 
 bot = telebot.TeleBot(token=telegram_token)
 

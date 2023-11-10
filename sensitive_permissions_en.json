@@ -1,0 +1,70 @@
+[
+	{
+		"name": "READ_CALL_LOG",
+		"description": "Allows An Application To Read The User'S Call Log."
+	},
+	{
+		"name": "WRITE_CALL_LOG",
+		"description": "Allows An Application To Write And Read The User'S Call Log Data."
+	},
+	{
+		"name": "PROCESS_OUTGOING_CALLS",
+		"description": "This Constant Was Deprecated In Api Level 29. Applications Should Use Callredirectionservice Instead Of The Intent.Action_New_Outgoing_Call Broadcast."
+	},
+	{
+		"name": "READ_SMS",
+		"description": "Allows An Application To Read Sms Messages."
+	},
+	{
+		"name": "SEND_SMS",
+		"description": "Allows An Application To Send Sms Messages."
+	},
+	{
+		"name": "RECEIVE_SMS",
+		"description": "Allows An Application To Receive Sms Messages."
+	},
+	{
+		"name": "RECEIVE_WAP_PUSH",
+		"description": "Allows An Application To Receive Wap Push Messages."
+	},
+	{
+		"name": "RECEIVE_MMS",
+		"description": "Allows An Application To Monitor Incoming Mms Messages."
+	},
+	{
+		"name": "ACCESS_FINE_LOCATION",
+		"description": "Allows An App To Access Precise Location."
+	},
+	{
+		"name": "ACCESS_COARSE_LOCATION",
+		"description": "Allows An App To Access Approximate Location."
+	},
+	{
+		"name": "ACCESS_BACKGROUND_LOCATION",
+		"description": "Allows An App To Access Location In The Background."
+	},
+	{
+		"name": "MANAGE_EXTERNAL_STORAGE",
+		"description": "Allows An Application Broad Access To External Storage In Scoped Storage."
+	},
+	{
+		"name": "QUERY_ALL_PACKAGES",
+		"description": "Allows Query Of Any Normal App On The Device, Regardless Of Manifest Declarations."
+	},
+	{
+		"name": "REQUEST_INSTALL_PACKAGES",
+		"description": "Allows An Application To Request Installing Packages."
+	},
+	{
+		"name": "USE_EXACT_ALARM",
+		"description": "Allows Apps To Use Exact Alarms Just Like With Schedule_Exact_Alarm But Without Needing To Request This Permission From The User."
+	},
+	{
+		"name": "SCHEDULE_EXACT_ALARM",
+		"description": "Allows Applications To Use Exact Alarm Apis."
+	},
+	{
+		"name": "WRITE_SMS",
+		"description": "Allow The App To Write Sms To The Phone"
+	}
+]
