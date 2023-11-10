@@ -114,4 +114,4 @@ def handle_translation(message, selected_language):
 
 
 if __name__ == '__main__':
-    bot.polling(none_stop=True)
+    bot.polling()
