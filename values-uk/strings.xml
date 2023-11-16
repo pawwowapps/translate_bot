@@ -1,0 +1,31 @@
+<resources>
+    <string name="turn_your_fridge_into_a_culinary_treasure_trove">Перетворіть Свій Холодильник На \n Кулінарну Скарбницю</string>
+    <string name="unlock_the_art_of_smart_cooking">Розкрийте Мистецтво \n Розумного Приготування Їжі</string>
+    <string name="unlock_premium_features">Розблокувати<font color="#45BE6A">Premium</font> \nFeatures:</string>
+    <string name="s_per_year">%s На Рік</string>
+    <string name="try_3_days_for_free">Спробуйте 3 Дні Для<font color="#23C275">FREE</font></string>
+    <string name="purchase_after_per_month_after_trial_ends"><font color="#Bfc0C8"><b>%s</b></font> На Місяць Після Закінчення Пробного Періоду <i>(Скасувати Будь-Коли)</i></string>
+    <string name="s_per_week">%s На Тиждень</string>
+    <string name="unlock_the_potential_od_premium">Розкрийте Потенціал<font color="#45BE6A">Premium</font></string>
+    <string name="weekly">%s/Тиждень</string>
+    <string name="get_pro_with_sale">Отримати<font color="#FE8301">PRO</font></string>
+    <string name="chefbot_caps">Шеф-Кухар<font color="#FE8301">BOT</font></string>
+    <string name="montly_price_with_old">%s Щомісяця<strike>%s</strike></string>
+    <string name="premium_yearly">Преміум - Річний</string>
+    <string name="free_3_days_trial">Безкоштовна 3-Днівна Пробна Версія</string>
+    <string name="you_don_t_have_any_saved_recipes_yet">У Вас Ще Немає Збережених Рецептів</string>
+    <string name="i_will_generate_recipe_from_any_products_that_you_have">Я Створю Рецепт \n Із Будь-Яких Продуктів, Які У Вас Є</string>
+    <string name="you_have_exceeded_the_attempt_limits">Ви Перевищили \n Ліміт Спроб</string>
+    <string name="make_you_unique_dishes_from_the_ingredients_available_to_you">Зробити Вас<b>unique dishes</b>  from the ingredients available to you</string>
+    <string name="allows_you_to_share_cooked_dishes_with_friends">Дозволяє<b>share</b> cooked dishes with friends</string>
+    <string name="_3_days_free_trial_then_99_99_month">3 Дні Безкоштовної Пробної Версії \ Потім %s / Місяць</string>
+    <string name="_3_days_free_trial_then_">3 Дні Безкоштовного Пробного Періоду, Потім %s/Місяць</string>
+    <string name="get_for_price">Отримайте Premium За %s/Місяць</string>
+    <string name="monthly_99_00_month">Щомісяця \n%s / Місяць</string>
+    <string name="get_instant_access_and_enjoy_advanced_features">Отримати<font color="#FEAD58">instant access</font> and enjoy advanced features</string>
+    <string-array name="finale_prompt">
+        <item>Ви Точно Вмієте Готувати. Ця Страва Справжня Магія, І Я В Захваті!</item>
+        <item>Я Не Можу Повірити, Що Це Зроблено Вдома! Ти Справжній Кухар.</item>
+        <item>Ви Створили Чудову Страву. Ваша Пристрасть До Кулінарії Справді Очевидна.</item>
+    </string-array>
+</resources>

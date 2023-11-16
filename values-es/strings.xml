@@ -1,0 +1,31 @@
+<resources>
+    <string name="turn_your_fridge_into_a_culinary_treasure_trove">Convierte Tu Frigorífico En Un \n Tesoro Culinario</string>
+    <string name="unlock_the_art_of_smart_cooking">Desbloquea El Arte \n De La Cocina Inteligente</string>
+    <string name="unlock_premium_features">Desbloquear<font color="#45BE6A">Premium</font> \nFeatures:</string>
+    <string name="s_per_year">%s Por Año</string>
+    <string name="try_3_days_for_free">Pruebe 3 Días Para<font color="#23C275">FREE</font></string>
+    <string name="purchase_after_per_month_after_trial_ends"><font color="#Bfc0C8"><b>%s</b></font> Por Mes Después De Que Finalice La Prueba <i>(Cancelar En Cualquier Momento)</i></string>
+    <string name="s_per_week">%s Por Semana</string>
+    <string name="unlock_the_potential_od_premium">Liberar El Potencial De<font color="#45BE6A">Premium</font></string>
+    <string name="weekly">%s/Semana</string>
+    <string name="get_pro_with_sale">Conseguir<font color="#FE8301">PRO</font></string>
+    <string name="chefbot_caps">Cocinero<font color="#FE8301">BOT</font></string>
+    <string name="montly_price_with_old">%s Mensual<strike>%s</strike></string>
+    <string name="premium_yearly">Premium - Anual</string>
+    <string name="free_3_days_trial">Prueba Gratuita De 3 Días</string>
+    <string name="you_don_t_have_any_saved_recipes_yet">Aún No Tienes Ninguna Receta Guardada</string>
+    <string name="i_will_generate_recipe_from_any_products_that_you_have">Generaré Una Receta \n A Partir De Cualquier Producto Que Tengas</string>
+    <string name="you_have_exceeded_the_attempt_limits">Has Excedido \n Los Límites De Intentos</string>
+    <string name="make_you_unique_dishes_from_the_ingredients_available_to_you">Hará<b>unique dishes</b>  from the ingredients available to you</string>
+    <string name="allows_you_to_share_cooked_dishes_with_friends">Te Permite<b>share</b> cooked dishes with friends</string>
+    <string name="_3_days_free_trial_then_99_99_month">Prueba Gratuita De 3 Días \Luego %s / Mes</string>
+    <string name="_3_days_free_trial_then_">Prueba Gratuita De 3 Días Y Luego %s/Mes</string>
+    <string name="get_for_price">Obtén Premium Por %s/Mes</string>
+    <string name="monthly_99_00_month">Mensual \n%s/Mes</string>
+    <string name="get_instant_access_and_enjoy_advanced_features">Conseguir<font color="#FEAD58">instant access</font> and enjoy advanced features</string>
+    <string-array name="finale_prompt">
+        <item>Definitivamente Sabes Cocinar. ¡Este Plato Es Pura Magia Y Estoy Asombrada!</item>
+        <item>¡No Puedo Creer Que Esto Se Haya Hecho En Casa! Eres Un Verdadero Chef.</item>
+        <item>Has Creado Un Plato Excepcional. Tu Pasión Por La Cocina Es Realmente Evidente.</item>
+    </string-array>
+</resources>
