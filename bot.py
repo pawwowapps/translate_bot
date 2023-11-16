@@ -2,7 +2,8 @@ from dotenv import load_dotenv
 import telebot
 import os
 from googletrans import Translator
-from json_translator import translate
+from json_translator import translateJson
+from xml_translator import translateXml
 import sys
 load_dotenv()
 
@@ -96,25 +97,31 @@ def handle_translation(message, selected_language):
         file_name = message.document.file_name.split('.')[0]
         languages_to_translate = selected_language.split(",")
         if 'json' in file_extension:
+            bot.send_message(message.chat.id, f"Перекладаю на: {selected_language}.")
             for language_name in languages_to_translate:
-                bot.send_message(message.chat.id, f"Перекладаю на: {language_name}.")
-
                 lang = language_name.strip()
                 file_url = f"https://api.telegram.org/file/bot{telegram_token}/{file_info.file_path}"
                 target_language = language_codes.get(lang, lang)
                 # Download the file
                 downloaded_file_path = f"{file_name}_{target_language}.{file_extension}"
                 os.system(f"curl -o {downloaded_file_path} {file_url}")
-                translate(downloaded_file_path, target_language)
+                translateJson(downloaded_file_path, target_language)
 
                 with open(downloaded_file_path, 'rb') as file:
                     bot.send_document(message.chat.id, file)
                     handle_start(message)
-
+        elif 'xml' in file_extension:
+            bot.send_message(message.chat.id, f"Перекладаю на: {selected_language}.")
+            for language_name in languages_to_translate:
+                lang = language_name.strip()
+                file_url = f"https://api.telegram.org/file/bot{telegram_token}/{file_info.file_path}"
+                target_language = language_codes.get(lang, lang)
+                # Download the file
+                downloaded_file_path = f"{file_name}_{target_language}.{file_extension}"
+                os.system(f"curl -o {downloaded_file_path} {file_url}")
+                translateXml(downloaded_file_path, target_language)
 
 
 if __name__ == '__main__':
     bot.polling()
-    bot.delete_webhook()
-    bot.set_webhook(url="https://translate-bot-7jy3.onrender.com")
 
