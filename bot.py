@@ -10,7 +10,7 @@ load_dotenv()
 
 debug = os.getenv("DEBUG")
 # telegram_token = os.getenv("TELEGRAM_TOKEN_DEBUG") if debug else os.getenv("TELEGRAM_TOKEN")
-telegram_token = '6859578061:AAGtGtIqL9NJrzwZ9l4oImW8G78wxe_Fjbg'
+telegram_token = '6953404835:AAGh27UXqujVsvAixAZV7zuWBUwAU4n9p44'
 user_token = os.getenv("USER_TOKEN")
 
 bot = telebot.TeleBot(token=telegram_token)
