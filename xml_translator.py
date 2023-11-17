@@ -9,7 +9,6 @@ def translateXml(file, output_lang):
     translator = Translator()
     tree = ElementTree.parse(file)
     root = tree.getroot()
-
     for i in range(len(root)):
         element = root[i]
         if ('string-array' in element.tag):
