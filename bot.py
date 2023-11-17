@@ -13,6 +13,7 @@ telegram_token = os.getenv("TELEGRAM_TOKEN_DEBUG") if debug else os.getenv("TELE
 user_token = os.getenv("USER_TOKEN")
 
 bot = telebot.TeleBot(token=telegram_token)
+URL = 'https://translate-bot-7jy3.onrender.com'  # Replace with your Render.com app URL
 
 
 # Define a function to handle file messages
@@ -141,5 +142,7 @@ def handle_translation(message, selected_language):
 
 
 if __name__ == '__main__':
-    bot.infinity_polling(none_stop=True)
+    bot.remove_webhook()
+    bot.set_webhook(url=URL)
+    # bot.infinity_polling(none_stop=True)
 
